@@ -44,6 +44,9 @@
         ]
     },
     "extra": {
+        "branch-alias": {
+            "dev-master": "7.2-dev"
+        },
         "laravel": {
             "providers": [
                 "RealRashid\\SweetAlert\\SweetAlertServiceProvider"
